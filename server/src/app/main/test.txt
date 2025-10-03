@@ -1,0 +1,11 @@
+  getTimestamp(input: string): number {
+    // Split input into dateTime string and zone
+    const parts = input.split(' ');
+    const dateTimeStr = parts.slice(0, 2).join(' ');
+    const zone = parts[2]; // Europe/Paris
+
+    // Now parse correctly
+    const dt = DateTime.fromFormat(dateTimeStr, 'yyyyMMdd HH:mm:ss', { zone });
+    const timestamp = dt.toMillis();
+    return Math.floor(timestamp / 1000);
+  }

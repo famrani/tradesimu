@@ -1,0 +1,502 @@
+[
+  {
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "marketCap": 39400022016,
+    "price": 150.19,
+    "target": 249.51344,
+    "ratio": 0.6019315031687271
+  },
+  {
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "marketCap": 233982558208,
+    "price": 245.78,
+    "target": 334.87354,
+    "ratio": 0.7339487019488014
+  },
+  {
+    "ticker": "ADBE",
+    "name": "Adobe Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "marketCap": 146568609792,
+    "price": 350.14,
+    "target": 454.182,
+    "ratio": 0.7709244311751676
+  },
+  {
+    "ticker": "OKTA",
+    "name": "Okta, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "marketCap": 16519750656,
+    "price": 93.71,
+    "target": 120.3675,
+    "ratio": 0.7785324111574967
+  },
+  {
+    "ticker": "CTSH",
+    "name": "Cognizant Technology Solutions Corporation",
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "marketCap": 33113245696,
+    "price": 67.8,
+    "target": 86.70905,
+    "ratio": 0.7819253007615697
+  },
+  {
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "marketCap": 189431660544,
+    "price": 912.84,
+    "target": 1147.8385,
+    "ratio": 0.7952686723785619
+  },
+  {
+    "ticker": "INTU",
+    "name": "Intuit Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "marketCap": 186824441856,
+    "price": 670.09,
+    "target": 814.5665,
+    "ratio": 0.8226338794929573
+  },
+  {
+    "ticker": "META",
+    "name": "Meta Platforms, Inc.",
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information",
+    "marketCap": 1797839126528,
+    "price": 715.66,
+    "target": 867.5634,
+    "ratio": 0.824908012486465
+  },
+  {
+    "ticker": "AMZN",
+    "name": "Amazon.com, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Internet Retail",
+    "marketCap": 2355878952960,
+    "price": 220.9,
+    "target": 266.5645,
+    "ratio": 0.8286924928113083
+  },
+  {
+    "ticker": "TWLO",
+    "name": "Twilio Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "marketCap": 16831665152,
+    "price": 109.7,
+    "target": 131.35715,
+    "ratio": 0.8351277414286167
+  },
+  {
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "marketCap": 3928948736000,
+    "price": 528.57,
+    "target": 620.7369,
+    "ratio": 0.8515201851219092
+  },
+  {
+    "ticker": "SNPS",
+    "name": "Synopsys, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "marketCap": 88828731392,
+    "price": 478.22,
+    "target": 556.4,
+    "ratio": 0.8594895758447161
+  },
+  {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "marketCap": 4517342478336,
+    "price": 185.54,
+    "target": 214.79071,
+    "ratio": 0.8638176204175684
+  },
+  {
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Travel Services",
+    "marketCap": 73682558976,
+    "price": 120.35,
+    "target": 137.94,
+    "ratio": 0.8724807887487313
+  },
+  {
+    "ticker": "ON",
+    "name": "ON Semiconductor Corporation",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "marketCap": 20591839232,
+    "price": 50.35,
+    "target": 57.53333,
+    "ratio": 0.8751448942725895
+  },
+  {
+    "ticker": "MCHP",
+    "name": "Microchip Technology Incorporated",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "marketCap": 35937267712,
+    "price": 66.59,
+    "target": 76,
+    "ratio": 0.8761842105263158
+  },
+  {
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "marketCap": 831262621696,
+    "price": 291.59,
+    "target": 330.86865,
+    "ratio": 0.8812862747800373
+  },
+  {
+    "ticker": "TXN",
+    "name": "Texas Instruments Incorporated",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "marketCap": 165290229760,
+    "price": 181.81,
+    "target": 205.27121,
+    "ratio": 0.8857062809733524
+  },
+  {
+    "ticker": "ADSK",
+    "name": "Autodesk, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "marketCap": 68890591232,
+    "price": 323.43,
+    "target": 363.7143,
+    "ratio": 0.8892419132269477
+  },
+  {
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "marketCap": 154361741312,
+    "price": 248.17,
+    "target": 278.3191,
+    "ratio": 0.8916743407117944
+  },
+  {
+    "ticker": "NXPI",
+    "name": "NXP Semiconductors N.V.",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "marketCap": 58344357888,
+    "price": 231.42,
+    "target": 258.7469,
+    "ratio": 0.8943875269616757
+  },
+  {
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "marketCap": 1584306192384,
+    "price": 335.49,
+    "target": 370.3649,
+    "ratio": 0.9058363792033209
+  },
+  {
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "marketCap": 26191224832,
+    "price": 321.93,
+    "target": 350.79974,
+    "ratio": 0.9177030746944111
+  },
+  {
+    "ticker": "SNOW",
+    "name": "Snowflake Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "marketCap": 82165776384,
+    "price": 242.52,
+    "target": 263.7517,
+    "ratio": 0.9195011823620473
+  },
+  {
+    "ticker": "UBER",
+    "name": "Uber Technologies, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "marketCap": 208750395392,
+    "price": 100.1,
+    "target": 107.88,
+    "ratio": 0.9278828327771598
+  },
+  {
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "marketCap": 48319737856,
+    "price": 305.24,
+    "target": 325.3657,
+    "ratio": 0.9381443710876716
+  },
+  {
+    "ticker": "QCOM",
+    "name": "QUALCOMM Incorporated",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "marketCap": 181940977664,
+    "price": 168.62,
+    "target": 178.12692,
+    "ratio": 0.9466283928336042
+  },
+  {
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "sector": "Technology",
+    "industry": "Communication Equipment",
+    "marketCap": 32709169152,
+    "price": 24.79,
+    "target": 26.04056,
+    "ratio": 0.9519764551914398
+  },
+  {
+    "ticker": "CDNS",
+    "name": "Cadence Design Systems, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "marketCap": 96287055872,
+    "price": 353.36,
+    "target": 370.84042,
+    "ratio": 0.9528626895633437
+  },
+  {
+    "ticker": "DDOG",
+    "name": "Datadog, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "marketCap": 54878531584,
+    "price": 157.36,
+    "target": 162.32365,
+    "ratio": 0.9694212765669084
+  },
+  {
+    "ticker": "PANW",
+    "name": "Palo Alto Networks, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "marketCap": 143889219584,
+    "price": 212.58,
+    "target": 214.99167,
+    "ratio": 0.9887824956194815
+  },
+  {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "marketCap": 330589503488,
+    "price": 203.71,
+    "target": 205.16441,
+    "ratio": 0.9929110024492065
+  },
+  {
+    "ticker": "CRWD",
+    "name": "CrowdStrike Holdings, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "marketCap": 124461203456,
+    "price": 495.95,
+    "target": 498.42554,
+    "ratio": 0.9950332801966769
+  },
+  {
+    "ticker": "SHOP",
+    "name": "Shopify Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "marketCap": 213581152256,
+    "price": 164.5,
+    "target": 163.14804,
+    "ratio": 1.0082867069687138
+  },
+  {
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "marketCap": 214346121216,
+    "price": 190.96,
+    "target": 188.88571,
+    "ratio": 1.0109817201100073
+  },
+  {
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "marketCap": 76657926144,
+    "price": 88.92,
+    "target": 87.22615,
+    "ratio": 1.0194190618295087
+  },
+  {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc.",
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information",
+    "marketCap": 3034564526080,
+    "price": 250.43,
+    "target": 245.18565,
+    "ratio": 1.021389302351096
+  },
+  {
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "sector": "Technology",
+    "industry": "Electronic Components",
+    "marketCap": 150661660672,
+    "price": 123.4,
+    "target": 119.9375,
+    "ratio": 1.0288692027097448
+  },
+  {
+    "ticker": "IBM",
+    "name": "International Business Machines Corporation",
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "marketCap": 269600309248,
+    "price": 289.42,
+    "target": 281.2463,
+    "ratio": 1.0290624267768145
+  },
+  {
+    "ticker": "AAPL",
+    "name": "Apple Inc.",
+    "sector": "Technology",
+    "industry": "Consumer Electronics",
+    "marketCap": 3809379614720,
+    "price": 256.69,
+    "target": 246.2186,
+    "ratio": 1.0425288747478867
+  },
+  {
+    "ticker": "NET",
+    "name": "Cloudflare, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "marketCap": 77024886784,
+    "price": 221.03,
+    "target": 209.00862,
+    "ratio": 1.0575161923943615
+  },
+  {
+    "ticker": "MPWR",
+    "name": "Monolithic Power Systems, Inc.",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "marketCap": 46364246016,
+    "price": 968.1,
+    "target": 888.61536,
+    "ratio": 1.0894477448600484
+  },
+  {
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "sector": "Technology",
+    "industry": "Computer Hardware",
+    "marketCap": 32459206656,
+    "price": 54.62,
+    "target": 49.82353,
+    "ratio": 1.096269172417129
+  },
+  {
+    "ticker": "AMAT",
+    "name": "Applied Materials, Inc.",
+    "sector": "Technology",
+    "industry": "Semiconductor Equipment & Materials",
+    "marketCap": 178376212480,
+    "price": 223.91,
+    "target": 201.19354,
+    "ratio": 1.112908495968608
+  },
+  {
+    "ticker": "ASML",
+    "name": "ASML Holding N.V.",
+    "sector": "Technology",
+    "industry": "Semiconductor Equipment & Materials",
+    "marketCap": 404954480640,
+    "price": 1043.3,
+    "target": 910.1277,
+    "ratio": 1.146322653403473
+  },
+  {
+    "ticker": "KLAC",
+    "name": "KLA Corporation",
+    "sector": "Technology",
+    "industry": "Semiconductor Equipment & Materials",
+    "marketCap": 150082174976,
+    "price": 1139.71,
+    "target": 981.48,
+    "ratio": 1.1612157150425888
+  },
+  {
+    "ticker": "PLTR",
+    "name": "Palantir Technologies Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "marketCap": 425906667520,
+    "price": 179.53,
+    "target": 153.33409,
+    "ratio": 1.1708420482359794
+  },
+  {
+    "ticker": "LRCX",
+    "name": "Lam Research Corporation",
+    "sector": "Technology",
+    "industry": "Semiconductor Equipment & Materials",
+    "marketCap": 188082962432,
+    "price": 149.15,
+    "target": 120.82233,
+    "ratio": 1.2344572398165141
+  },
+  {
+    "ticker": "TSLA",
+    "name": "Tesla, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Manufacturers",
+    "marketCap": 1507124707328,
+    "price": 453.25,
+    "target": 351.34,
+    "ratio": 1.2900609096601583
+  },
+  {
+    "ticker": "INTC",
+    "name": "Intel Corporation",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "marketCap": 174066597888,
+    "price": 36.59,
+    "target": 25.86686,
+    "ratio": 1.414551282992988
+  }
+]

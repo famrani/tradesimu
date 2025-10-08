@@ -1,0 +1,146 @@
+-> request: /sso/ping
+-> GET /sso/ping,200|392ms
+-> request: /sso/ping
+-> GET /sso/ping,200|144ms
+-> request: /sso/ping
+-> GET /sso/ping,200|330ms
+-> request: /sso/ping
+-> GET /sso/ping,200|298ms
+-> GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> GET /css/bootstrap-5.2.2/bootstrap.min.css
+-> GET /css/bootstrap-switch-3.3.2/bootstrap-switch.min.css
+-> GET /css/reg-am/login.min.css
+<- 200 GET /css/bootstrap-5.2.2/bootstrap.min.css
+-> GET /css/ibkr/theme-ibkr-portal.min.css
+-> GET /css/fontawesome-6.2.0/all.min.css
+-> GET /scripts/common/js/jquery-3.7.0/jquery.min.js
+-> GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+<- 200 GET /css/ibkr/theme-ibkr-portal.min.css
+<- 200 GET /css/bootstrap-switch-3.3.2/bootstrap-switch.min.css
+-> GET /sso/lib/xyz.bundle.min.js
+<- 200 GET /css/fontawesome-6.2.0/all.min.css
+<- 200 GET /css/reg-am/login.min.css
+<- 200 GET /scripts/common/js/jquery-3.7.0/jquery.min.js
+<- 200 GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+<- 200 GET /sso/lib/xyz.bundle.min.js
+-> GET /images/common/logos/ibkr/interactive-brokers.svg
+-> GET /fonts/proxima-nova/Proxima-Nova-Regular.woff2
+-> GET /fonts/fontawesome-6.4.2/webfonts/fa-solid-900.woff2
+-> GET /fonts/fontawesome-6.2.0/webfonts/fa-brands-400.woff2
+-> GET /fonts/proxima-nova/Proxima-Nova-Semibold.woff2
+-> POST /portal.proxy/v1/gstat/bulletins
+<- 200 GET /images/common/logos/ibkr/interactive-brokers.svg
+-> GET /sso/images/2fa-animated-once.gif
+<- 200 GET /fonts/fontawesome-6.4.2/webfonts/fa-solid-900.woff2
+<- 200 GET /fonts/fontawesome-6.2.0/webfonts/fa-brands-400.woff2
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Regular.woff2
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Semibold.woff2
+<- 200 GET /sso/images/2fa-animated-once.gif
+<- 204 POST /portal.proxy/v1/gstat/bulletins
+-> GET /images/common/logos/ibkr/interactive-brokers-inverse.svg
+<- 200 GET /images/common/logos/ibkr/interactive-brokers-inverse.svg
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> GET /sso/images/2fa-animated-once.gif?q=0.690862570510457
+-> GET /fonts/proxima-nova/proximanova-extrabold.woff2
+<- 200 GET /sso/images/2fa-animated-once.gif?q=0.690862570510457
+<- 200 GET /fonts/proxima-nova/proximanova-extrabold.woff2
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> GET /sso/images/2fa-animated-once.gif?q=0.45704783695051243
+<- 200 GET /sso/images/2fa-animated-once.gif?q=0.45704783695051243
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Dispatcher
+<- 302 POST /sso/Dispatcher
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,200|179ms
+-> request: /v1/api/one/user
+-> request: /v1/api/ssodh/init
+-> sso GET https://api.ibkr.com/v1/api/ssodh/init
+-> GET /v1/api/one/user,200|203ms
+-> request: /sso/ping
+-> GET /sso/ping,200|354ms
+-> request: /sso/ping
+-> GET /sso/ping,200|250ms
+-> request: /sso/ping
+-> GET /sso/ping,200|314ms
+-> request: /sso/ping
+-> GET /sso/ping,200|317ms
+-> request: /sso/ping
+-> GET /sso/ping,200|247ms
+-> request: /sso/ping
+-> GET /sso/ping,200|304ms
+-> request: /sso/ping
+-> GET /sso/ping,200|439ms
+-> request: /sso/ping
+-> request: /sso/ping
+-> GET /sso/ping,200|511ms
+-> request: /sso/ping
+-> GET /sso/ping,200|145ms
+-> request: /sso/ping
+-> request: /sso/ping
+-> GET /sso/ping,200|323ms
+-> request: /sso/ping
+-> GET /sso/ping,200|256ms
+-> request: /sso/ping
+-> GET /sso/ping,200|233ms
+-> request: /sso/ping
+-> request: /sso/ping
+-> GET /sso/ping,200|317ms
+-> request: /sso/ping
+-> GET /sso/ping,200|571ms
+-> request: /sso/ping
+-> request: /sso/ping
+-> GET /sso/ping,200|356ms
+-> request: /sso/ping
+-> request: /sso/ping
+-> GET /sso/ping,200|379ms
+-> request: /sso/ping
+-> GET /sso/ping,200|235ms
+-> request: /sso/ping
+-> request: /sso/ping
+-> GET /sso/ping,200|285ms
+-> request: /sso/ping
+-> request: /sso/ping
+-> GET /sso/ping,200|320ms
+-> request: /sso/ping
+-> request: /sso/ping
+-> GET /sso/ping,200|538ms
+-> request: /sso/ping
+-> request: /sso/ping
+-> GET /sso/ping,200|637ms
+-> request: /sso/ping
+-> GET /sso/ping,200|243ms
+-> request: /sso/ping
+-> GET /sso/ping,200|242ms
+-> request: /sso/ping
+-> GET /sso/ping,200|276ms
+-> request: /sso/ping
+-> GET /sso/ping,200|411ms
+-> request: /sso/ping
+-> GET /sso/ping,200|422ms
+-> request: /sso/ping
+-> request: /sso/ping
+-> GET /sso/ping,200|341ms
+-> request: /sso/ping
+-> GET /sso/ping,200|151ms
+-> request: /sso/ping
+-> GET /sso/ping,200|321ms

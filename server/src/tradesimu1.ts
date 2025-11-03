@@ -5,9 +5,9 @@ import * as fs from 'fs';
 
 export class TradeSimuComponent {
   private symbols = [
-    "AMZN", "ACN", "PANW", "NVDA", "CRM",
+    "AMZN", "ACN", "PANW", "NVDA", "CRM", "MSFT",
     "GOOGL", "AVGO", "MRVL", "ARM", "TEAM",
-    "WDAY", "AAPL", "NFLX", "FTNT"
+    "WDAY", "AAPL", "NFLX", "FTNT", "UBER", "CMCSA", "CTSH", "GOOG", "HPE", "IBM", "META", "NOW", "TSLA"
   ];
 
   constructor() {
